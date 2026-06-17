@@ -1,10 +1,10 @@
 # GE-IT Skills Portfolio
 
 ## Professional Bio 
-### Certified Human Resource Development Practitioner with a Master’s in Human Resource Management committed to empowering people and driving organizational excellence. 
+Certified Human Resource Development Practitioner with a Master’s in Human Resource Management committed to empowering people and driving organizational excellence. 
 
 ## Branding Tagline
-### Power with Grace
+Power with Grace
 
 ## Branding
 [Branding.zip](https://github.com/user-attachments/files/29041941/Branding.zip)  
