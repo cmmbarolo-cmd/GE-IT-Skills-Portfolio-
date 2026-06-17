@@ -105,20 +105,7 @@ AI Cleaning Instruction:
 Result:
 Successfully normalized 145 data entries across Bukidnon, North Cotabato, and Davao del Sur agricultural clusters. Data consistency improved for comparative time-series analysis.
 
-#### 2. Visualizations Generated
-Mindanao Rice Yield (MT)
-│
-│        ████████████  2020
-│        ██████████    2021
-│        ████████      2022  ⚠️ El Niño Impact
-│        █████████     2023
-│        ███████████   2024
-│        ████████████  2025
-│
-└──────────────────────────────
-     Bukidnon / Cotabato / Davao del Sur
-     
-#### Graph Image 
+#### 2. Visualizations Generated 
 <img width="1536" height="1024" alt="Graph" src="https://github.com/user-attachments/assets/4257a3d6-1c38-471d-8e2f-01f1b5810a17" />
 
 #### 3. Human Analytical Narrative (The “Why” Factor)
