@@ -67,5 +67,5 @@ Style constraints:
 - White background
 - Professional and scalable icon design
 
-### 4.Logo 
+### 4. Logo 
 <img width="2380" height="2380" alt="Logo (1)" src="https://github.com/user-attachments/assets/bd6e58de-50de-43cb-8436-fefd050f2199" />
